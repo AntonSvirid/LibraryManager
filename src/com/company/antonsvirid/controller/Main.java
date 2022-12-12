@@ -1,7 +1,7 @@
 package com.company.antonsvirid.controller;
 
 import com.company.antonsvirid.model.entity.Book;
-import com.company.antonsvirid.model.entity.Libraryable;
+import com.company.antonsvirid.model.entity.abstracts.Libraryable;
 import com.company.antonsvirid.model.entity.Magazine;
 import com.company.antonsvirid.view.Printer;
 

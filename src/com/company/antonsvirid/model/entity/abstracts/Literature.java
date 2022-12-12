@@ -1,4 +1,4 @@
-package com.company.antonsvirid.model.entity;
+package com.company.antonsvirid.model.entity.abstracts;
 
 public abstract class Literature implements Libraryable {
 

@@ -1,6 +1,8 @@
 package com.company.antonsvirid.model.entity;
 
-public class Book extends Literature{
+import com.company.antonsvirid.model.entity.abstracts.Literature;
+
+public class Book extends Literature {
 
     public Book() {
     }
